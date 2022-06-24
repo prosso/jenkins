@@ -7,9 +7,6 @@ from joblib import dump
 from sklearn.model_selection import StratifiedKFold, cross_val_score
 from sklearn.linear_model import LogisticRegression
 
-#commit 1
-
-
 # Set path to inputs
 PROCESSED_DATA_DIR = os.environ["PROCESSED_DATA_DIR"]
 train_data_file = 'train.csv'
