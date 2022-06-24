@@ -1,7 +1,3 @@
-commit 1
-commit 2
-commit 3
-
 # MLOps with Docker and Jenkins: Automating Machine Learning Pipelines
 
 <p align="center">
